@@ -19,7 +19,12 @@ This project revolves around analyzing a pizza sales dataset consisting of four 
 
 ## Sample Insights:
 * The top three most ordered pizzas based on sales are The Classic Deluxe Pizza, The Barbecue Chicken Pizza and The Hawaiian Pizza.
-* Suggesting pricing adjustments based on profitability analysis.
-* Proposing promotional offers or bundles to increase average order value.
-* Identifying potential new pizza offerings based on customer preferences.
+* Most people are ordering large or medium-sized pizzas.
+* The average number of pizzas ordered per day is 138.
+* The top 3 pizzas based on revenue are the The Thai Chicken Pizza, The Barbecue Chicken Pizza, The California Chicken Pizza.
+
+## Final Conclusion to improve Pizza Shop Sales:
+* The Chicken pizzas contributing more to the revenue, So add more varities chicken pizzas.
+* Proposing promotional offers to increase average order value.
+  
 
